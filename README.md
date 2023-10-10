@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/LVKvjL6.gif)]
 <h1 align="center">Hey there👋, I'm Aswin mv</h1>
 <h3 align="center">A passionate Mobile app developer from Kerala, India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Q85G.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinmv7&label=Profile%20views&color=0e75b6&style=flat" alt="aswinmv7" /> </p>
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aswinmv777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aswinmv777/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22628214/aswin-mv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22628214/aswin-mv" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/asweenmv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asweenmv/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/aswinmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/aswinmv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aswinmv777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswinmv777" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/aswin-mv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aswin-mv" height="30" width="40" /></a>
+<a href="https://instagram.com/asweenmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asweenmv" height="30" width="40" /></a>
+<a href="https://www.behance.net/aswinmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aswinmv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
