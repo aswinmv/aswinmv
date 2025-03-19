@@ -1,13 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif)
 <h1 align="center">Hey there👋, I'm Aswin mv</h1>
-<h3 align="center">A passionate Mobile app developer from Kerala, India</h3>
+<h3 align="center">A passionate UX Designer and UI Developer from Kerala, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinmv7&label=Profile%20views&color=0e75b6&style=flat" alt="aswinmv7" /> </p>
 
 - 🌱 I’m currently learning **Web development using React**
 
-- 💬 Ask me about **Flutter , dart and app development**
+- 💬 Ask me about **Flutter ,Product Design , UI/UX Design , dart and app development**
 
 - 📫 How to reach me **aswinmv7@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aswinmv777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswinmv777" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iamaswinmv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswinmv777" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aswinmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aswinmv" height="30" width="40" /></a>
 <a href="https://instagram.com/asweenmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asweenmv" height="30" width="40" /></a>
 <a href="https://www.behance.net/aswinmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aswinmv" height="30" width="40" /></a>
